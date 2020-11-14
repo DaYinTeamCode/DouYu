@@ -1,6 +1,6 @@
 
-![斗鱼TV](https://staticlive.douyucdn.cn/upload/signs/201610291926483131.png)
-# 斗鱼Tv项目
+
+# 斗鱼项目
 ## 版权说明：该项目纯属练手项目，不作为商用项目！有涉及到侵权请告知删除，涉及商用侵权与本人无关
 
 
@@ -76,14 +76,14 @@
  
 <h2 id="3.0.0">三.应用截图</h2>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/678D6ACFDFAA01AC6333EC682F1A1D57.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/04A99D0900B1418A37943CCE169E2C3D.png" width="50%" height="50%" />
    <p>
   <h5>3.1.1图</h5>
   </p>
 </center>
 <div></div>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/DACCBB63F4390F462D498615DCAA4BC7.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/244A2690-9FF8-439E-9C2D-FB6FE69F316C.png" width="50%" height="50%" />
    <p>
   <h5>3.1.2图</h5>
   </p>
@@ -91,7 +91,7 @@
 <div></div>
 
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/97901F29A1B07C41B574829D8EAD29A1.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/34B00D0668EDA965CB735FC4403558AE.png" width="50%" height="50%" />
    <p>
   <h5>3.1.3图</h5>
   </p>
@@ -107,35 +107,35 @@
 <div></div>
 
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/04A99D0900B1418A37943CCE169E2C3D.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/35692D640637F2A6D2FCF09F9E8B4C48.jpg" width="50%" height="50%" />
    <p>
   <h5>3.1.5图</h5>
   </p>
 </center>
 <div></div>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/7540E9A56688E00078BBD79554B000E1.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/3C42F496B3D447D3009DC543D1477186.png" width="50%" height="50%" />
    <p>
   <h5>3.1.6图</h5>
   </p>
 </center>
 <div></div>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/3C42F496B3D447D3009DC543D1477186.png" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/536FAFE7-C0BA-4E28-8875-D6BB134880A3.png" width="50%" height="50%" />
    <p>
   <h5>3.1.7图</h5>
   </p>
 </center>
 <div></div>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/35692D640637F2A6D2FCF09F9E8B4C48.jpg" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/5FC86F4A3DAE79B29DF275C69B7B75A7.jpg" width="50%" height="50%" />
    <p>
   <h5>3.1.8图</h5>
   </p>
 </center>
 <div></div>
   <center>
-<img src="https://github.com/mykj/DouYu/blob/master/upload_image/5FC86F4A3DAE79B29DF275C69B7B75A7.jpg" width="50%" height="50%" />
+<img src="https://github.com/DaYinTeamCode/DouYu/blob/master/upload_image/7540E9A56688E00078BBD79554B000E1.png" width="50%" height="50%" />
    <p>
   <h5>3.1.9图</h5>
   </p>
@@ -226,16 +226,8 @@
  ```
   ---
   
-<h2 id="7.0.0">七.项目反馈</h2>
-   
-| 联系人  | QQ        |邮箱 |
-|:------ |:---------:| :-----:     |
-| 高印    | 377413612 |gaoyin_vip@126.com |
 
-
----
-
-<h2 id="8.0.0">八.参考资料</h2>
+<h2 id="7.0.0">七.参考资料</h2>
 
 - 弹幕三方库：[DanMu](https://github.com/Bilibili/DanmakuFlameMaster)
 
@@ -251,7 +243,7 @@
 
 ---
 
-<h2 id="9.0.0">九.Issuse</h2>
+<h2 id="8.0.0">八.Issuse</h2>
 
 
   <div>&nbsp;&nbsp;&nbsp;&nbsp; 本项目所有的API利用Charles抓取，项目只适合分享，学习，交流！不得用于商业用途，觉得项目不错的小伙伴，可以在右上角Star一下，后期项目会不断优化，在这过程中遇到什么问题与BUG ，欢迎大家[Issuse Me](https://github.com/mykj/DouYu/issues</div>)
